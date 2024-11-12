@@ -1,2 +1,2 @@
-# Kwenneth_Kweeboard
+# soundboard yeah!
 A wonderful macropad / soundboard thing
